@@ -4,10 +4,10 @@ I love exploring new technologies, building creative projects, and turning ideas
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-tripathi-3175b930b/)
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/01dhruv_tripathi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/01dhruv_tripathi/)
 
 ---
 
@@ -29,10 +29,16 @@ I love exploring new technologies, building creative projects, and turning ideas
 
 ## 📈 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvtripathi01&" alt="dhruvtripathi01" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=01dhruv_tripathi&theme=dark&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01dhruv_tripathi&theme=dark&hide_border=false" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01dhruv_tripathi&layout=compact&theme=dark&hide_border=false" width="60%" />
+</p>
 
 ---
 
-> 💡 “Code is the closest thing we have to a superpower.”  
-> 🧠 Keep learning, keep building, and stay curious!
+> 💡 *“Code is the closest thing we have to a superpower.”*  
+> 🧠 *Keep learning, keep building, and stay curious!*

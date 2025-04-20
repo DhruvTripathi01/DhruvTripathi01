@@ -2,14 +2,12 @@
 Hi, I am **Dhruv Tripathi**, a passionate Computer Science student from 🇮🇳 India.  
 I love exploring new technologies, building creative projects, and turning ideas into reality with code.
 
-
 ---
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-tripathi-3175b930b/)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/01dhruv_tripathi/)
- 
 
 ---
 
@@ -32,12 +30,12 @@ I love exploring new technologies, building creative projects, and turning ideas
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh76&theme=dark&show_icons=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh76&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=01dhruv_tripathi&theme=dark&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01dhruv_tripathi&theme=dark&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh76&layout=compact&theme=dark&hide_border=false" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01dhruv_tripathi&layout=compact&theme=dark&hide_border=false" width="60%" />
 </p>
 
 ---

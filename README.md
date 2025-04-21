@@ -28,8 +28,10 @@ I love exploring new technologies, building creative projects, and turning ideas
 ---
 
 ## 📈 GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dhruvtripathi01&theme=default" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvtripathi01&" alt="dhruvtripathi01" /></p>
 
 
 

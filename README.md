@@ -28,9 +28,12 @@ I love exploring new technologies, building creative projects, and turning ideas
 ---
 
 ## 📈 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dhruvtripathi01&theme=default" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=dhruvtripathi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhruvtripathi01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvtripathi01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dhruvtripathi01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
